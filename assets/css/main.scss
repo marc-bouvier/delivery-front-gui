@@ -3,6 +3,11 @@ body {
     height: 100%
 }
 
+.pad-inside * {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
 .h-100vh {
     height: 100vh;
 }
