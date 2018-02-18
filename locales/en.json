@@ -2,5 +2,9 @@
     "home": {
         "title": "delivery-front-gui",
         "subtitle": "Frontend for delivery application"
+    },
+    "authentication": {
+        "order": "Begin to order",
+        "orderCode": "#code"
     }
 }

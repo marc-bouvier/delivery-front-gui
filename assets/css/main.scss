@@ -1,3 +1,20 @@
+html,
+body {
+    height: 100%
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.flex-grow-2 {
+    flex-grow: 2;
+}
+
 .dav-logo {
     background-image: url(/dav-logo.png);
     background-color: #ffffff80;
