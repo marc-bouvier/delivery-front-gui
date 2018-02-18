@@ -10,7 +10,8 @@ export default ({ app, store }, inject) => {
         locale: store.state.locale,
         fallbackLocale: 'fr',
         messages: {
-            'fr': require('~/locales/fr.json')
+            'fr': require('~/locales/fr.json'),
+            'en': require('~/locales/en.json')
         }
     })
 
